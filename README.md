@@ -1,5 +1,12 @@
 # IEEEE-paper
-# This paper explores the multifaceted issue of insomnia, a prevalent sleep disorder characterized by difficulties in initiating and maintaining sleep. It examines the relationship between insomnia and various psychiatric conditions, highlighting the bidirectional nature of this association. The paper further discusses the implications of insomnia on individuals' emotional, mental health, and overall quality of life.
+#  Topic :Sleep Disorders and Their Impact on Mental Health
+# This paper explores the multifaceted issue of insomnia, a prevalent sleep disorder characterized by difficulties in initiating and maintaining sleep.
+# It examines the relationship between insomnia and various psychiatric conditions, highlighting the bidirectional nature of this association. 
+# The paper further discusses the implications of insomnia on individuals' emotional, mental health, and overall quality of life.
+# isomnia affects a significant portion of the population, with estimates ranging from 10% to 35% in Western European countries. It is particularly 
+# prevalent in Nordic regions, where seasonal variations may influence sleep patterns. This study aims to investigate the prevalence of insomnia symptoms, 
+# their daytime consequences, and seasonal variability in sleep quality, comparing these findings with other European nations.
+
 #  Objectives
 # - Assess the prevalence of insomnia symptomatology and disorders.
 # - Identify the daytime consequences of insomnia.
